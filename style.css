@@ -57,7 +57,6 @@ main div p{
 }
 
 main section{
-    border: 5px solid;
     max-width: 620px;
     margin: auto;
     padding: 20px 15px;
