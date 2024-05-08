@@ -39,7 +39,7 @@ main div{
     background-image: url(1.jpg);
     background-size: cover;
     width: 97%;
-    padding: 15px 0px;
+    padding: 15px;
     margin: auto;
     background-color: brown;
     display: flex;
@@ -60,5 +60,4 @@ main section{
     max-width: 620px;
     margin: auto;
     padding: 20px 15px;
-    
 }
